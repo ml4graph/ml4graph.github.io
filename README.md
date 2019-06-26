@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Table of Contents
 
-You can use the [editor on GitHub](https://github.com/ml4graph/ml4graph.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ - [Papers](#papers)
+    - [Adversarial learing](#Adversarial-learing)
+    - [Graph representation learning](#Graph-representation-learning)
+    - [Adversarial learning on graphs](#Adversarial-learning-on-graphs)
+ - [Tutorials and Workshops](#tutorials-and-workshops)
+    - [Adversarial learing](#Adversarial-learing-1)
+    - [Graph representation learning](#Graph-representation-learning-1)
+ - [Contact](#contact)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Papers
+### Adversarial learing
+- [Intriguing properties of neural networks](https://arxiv.org/pdf/1312.6199), Christian Szegedy et al., arXiv 2014
+- [Explaining and Harnessing Adversarial Examples](https://arxiv.org/pdf/1412.6572), Ian J. Goodfellow et al., ICLR 2015
+- [Motivating the Rules of the Game for Adversarial Example Research](https://arxiv.org/pdf/1807.06732), Justin Gilmer et al., arXiv 2018
+- [Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning](https://arxiv.org/pdf/1712.03141), Battista Biggio et al., arXiv 2018
 
-### Markdown
+### Graph representation learning
+- [Deep Convolutional Networks on Graph-Structured Data](https://arxiv.org/pdf/1506.05163), Mikael Henaff et al., arXiv 2015
+- [Representation Learning on Graphs: Methods and Applications](https://arxiv.org/pdf/1709.05584), William L. Hamilton et al., arXiv 2018
+- [Deep Learning on Graphs: A Survey](https://arxiv.org/pdf/1812.04202), Ziwei Zhang et al., arXiv 2018
+- [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/pdf/1812.08434), Jie Zhou et al., arXiv 2019
+- [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596), Zonghan Wu et al., arXiv 2019
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Adversarial learning on graphs
+- [Adversarial Attack on Graph Structured Data](https://arxiv.org/pdf/1806.02371), Hanjun Dai et al., ICML 2018
+- [Adversarial Attacks on Neural Networks for Graph Data](https://arxiv.org/pdf/1805.07984.pdf), Daniel Zügner et al., KDD 2018
+- [Adversarial Attacks on Node Embeddings](https://arxiv.org/pdf/1809.01093), Aleksandar Bojchevski et al., arXiv 2018
+- [Data Poisoning Attack against Unsupervised Node Embedding Methods](https://arxiv.org/pdf/1810.12881.pdf), Mingjie Sun et al., arXiv 2018
+- [Attack Graph Convolutional Networks by Adding Fake Nodes](https://arxiv.org/pdf/1810.10751), Xiaoyun Wang et al., arXiv 2018
+- [Link prediction adversarial attack](https://arxiv.org/pdf/1810.01110), Jinyin Chen et al., arXiv 2018
+- [Fast gradient attack on network embedding](https://arxiv.org/pdf/1809.02797), Jinyin Chen et al., arXiv 2018
+- [Characterizing Malicious Edges targeting on Graph Neural Networks](https://openreview.net/pdf?id=HJxdAoCcYX), Xiaojun Xu et al., openreview 2018
+- [Adversarial Attacks on Graph Neural Networks via Meta Learning](https://openreview.net/pdf?id=Bylnx209YX), Daniel Zügner et al., ICLR 2019
+- [Graph Adversarial Training: Dynamically Regularizing Based on Graph Structure](https://arxiv.org/pdf/1902.08226.pdf), Fuli Feng et al., arXiv 2019
 
-```markdown
-Syntax highlighted code block
+## Tutorials and Workshops
+### Adversarial learing
+- [NeurIPS 2016 Workshop on Adversarial Training](https://sites.google.com/site/nips2016adversarial/)
+- [AAAI 2018 Adversarial machine learning tutorial](https://aaai18adversarial.github.io/)
+- [AAAI 2019 Adversarial machine learning tutorial](https://aaai19adversarial.github.io/index.html#)
 
-# Header 1
-## Header 2
-### Header 3
+### Graph representation learning
+- [KDD 2018 Graph Representation Tutorial](https://ivanbrugere.github.io/kdd2018/)
+- [WWW 2018 Representation Learning on Networks Tutorial](http://snap.stanford.edu/proj/embeddings-www/)
+- [AAAI 2019 Graph Representation Learning Tutorial ](https://jian-tang.com/files/AAAI19/aaai-grltutorial-part0-intro.pdf)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Contact
+Pull requests and stars are always welcome! Check it on [Github](https://github.com/ml4graph/)
+<br>Author Homepage: <https://kyzhang.me/>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ml4graph/ml4graph.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
